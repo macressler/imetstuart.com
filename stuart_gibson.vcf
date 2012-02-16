@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gibson;Stuart;;;
+FN:Stuart Gibson
+ORG:Crafty Devil;
+TITLE:Web Developer
+EMAIL;type=INTERNET;type=HOME;type=pref:stuart@abovetheinternet.org
+EMAIL;type=INTERNET;type=WORK:stuart@craftydevil.co.uk
+TEL;type=CELL;type=pref:+44 7977926923
+item1.TEL:grahamstuartgibson
+item1.X-ABLabel:skype
+item2.TEL:stuartgibson
+item2.X-ABLabel:twitter
+item3.ADR;type=WORK;type=pref:;;Crafty Devil\nSpringboard Business Centre\n96 Beechill Road;Belfast;Co Antrim;BT8 7QN;UK
+item3.X-ABADR:gb
+item4.URL;type=pref:www.abovetheinternet.org
+item4.X-ABLabel:_$!<HomePage>!$_
+item5.URL:www.imetstuart.com
+item5.X-ABLabel:social networks
+X-ABUID:260DCA45-8092-4ECF-BAEC-0F5A908D787C\:ABPerson
+END:VCARD
