@@ -1,0 +1,33 @@
+html>body {
+	-webkit-text-size-adjust: none;
+	}
+	
+#wrapper {
+	position: relative;
+	width: auto;
+	height: auto;
+	left: 0em;
+	top: 0em;
+	margin: 2%;
+	background-position: bottom left;
+	-webkit-text-size-adjust: none;
+	}
+
+.leader {
+	/* display: block; */
+	width: 5.7em;
+	}
+
+ul#contact li {
+	display: block;
+	margin-bottom: 0.5em;
+	border-bottom: solid 1px #252525;
+	}
+
+#downloadcard {
+	display: none;
+	}
+
+ul#skills {
+	font-size: 1em;
+	}
