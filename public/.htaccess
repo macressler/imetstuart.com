@@ -1,3 +1,0 @@
-<FilesMatch "\.(?i:vcf)$">
-Header set Content-Disposition attachment
-</FilesMatch>
